@@ -50,7 +50,7 @@ I like experimenting with interfaces that feel interactive rather than static, a
 
 ```ts
 const debraj = {
-  learning: ["React", "GSAP", "Modern Frontend Development"],
+  learning: ["OpenCV", "GSAP", "Modern Frontend/Backend Development"],
   building: "Interactive web experiences with clean UI and smooth animations.",
   mindset: "Keep learning. Keep building."
 }
