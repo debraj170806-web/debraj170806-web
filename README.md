@@ -14,6 +14,7 @@
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=0,14,20,24"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
 ## 🕸️ About Me
