@@ -17,13 +17,18 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
-## 🕸️ About Me
+## 🕷️ About Me
 
-I'm **Debraj Sil**, a developer who enjoys creating modern digital experiences with clean code, smooth animations, and thoughtful design.
+```yaml
+Name      : Debraj Sil
+Role      : Frontend Developer
+Focus     : React • JavaScript • GSAP • Python
+Mindset   : Learning. Building. Improving.
+Location  : India
+```
 
-I like experimenting with interfaces that feel interactive rather than static, and I'm always exploring new ways to build better products while continuously improving my skills.
-
-> *Learning every day. Building every day.*
+I enjoy creating modern web experiences with clean interfaces,
+smooth animations, and thoughtful interactions.
 
 ---
 
