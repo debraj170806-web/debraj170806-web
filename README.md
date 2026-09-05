@@ -32,25 +32,28 @@ smooth animations, and thoughtful interactions.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
-<div align="center">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,python,git,github,vscode,figma"/>
+### Animation & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+</p>
 
-</div>
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-<br/>
-
-<div align="center">
-
-| **Frontend**      | **Programming** | **Creative Tools** |
-| :---------------- | :-------------- | :----------------- |
-| React             | Python          | GSAP               |
-| JavaScript (ES6+) | HTML5           | Figma              |
-| CSS3              | Git & GitHub    | VS Code            |
-
-</div>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
