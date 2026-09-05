@@ -94,6 +94,14 @@ When I'm away from my editor, you'll probably find me doing one of these:
 
 ---
 
+---
+
+## 🕸️ Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/debraj170806-web/debraj170806-web/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
 ## 🌐 Connect
 
 <div align="center">
