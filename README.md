@@ -106,15 +106,15 @@ When I'm away from my editor, you'll probably find me doing one of these:
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:debraj170806@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/debraj-sil">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://instagram.com/your-instagram">
+<a href="https://instagram.com/debrajjjj__">
   <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
