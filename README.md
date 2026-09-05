@@ -69,21 +69,16 @@ const debraj = {
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=debraj170806-web&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debraj170806-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debraj170806-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debraj170806-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=debraj170806-web&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=debraj170806-web&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
 
 ---
 
