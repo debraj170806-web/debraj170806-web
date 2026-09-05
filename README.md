@@ -89,7 +89,7 @@ I enjoy writing code that is readable, reusable, and visually engaging. Every pr
 When I'm away from my editor, you'll probably find me doing one of these:
 
 * 🎮 Gaming
-* 🎬 Video Editing
+* 🎬 Photo Editing
 * ⚽ Playing Football
 
 ---
