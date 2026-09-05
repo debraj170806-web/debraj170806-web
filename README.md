@@ -21,7 +21,7 @@
 
 ```yaml
 Name      : Debraj Sil
-Role      : Frontend Developer
+Role      : Frontend Developer | Backend Developer
 Focus     : React • JavaScript • GSAP • Python
 Mindset   : Learning. Building. Improving.
 Location  : India
