@@ -72,13 +72,17 @@ const debraj = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debraj170806-web&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debraj170806-web&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debraj170806-web&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=debraj170806-web&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debraj170806-web&theme=tokyonight"/>
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debraj170806-web&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=debraj170806-web&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 ---
