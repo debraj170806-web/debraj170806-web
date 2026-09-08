@@ -94,28 +94,6 @@ const debraj = {
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
-## 🕸️ Development Philosophy
-
-> Great interfaces aren't just designed — they're crafted.
-
-I enjoy writing code that is readable, reusable, and visually engaging. Every project is an opportunity to learn something new and improve the way users experience the web.
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
-</p>
-
-## 🎮 Beyond Code
-
-When I'm away from my editor, you'll probably find me doing one of these:
-
-* 🎮 Gaming
-* 🎬 Photo Editing
-* ⚽ Playing Football
-
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
-</p>
 
 ## 🕸️ Contribution Graph
 
@@ -134,6 +112,31 @@ When I'm away from my editor, you'll probably find me doing one of these:
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
 </p>
+
+## 🕸️ Development Philosophy
+
+> Great interfaces aren't just designed — they're crafted.
+
+I enjoy writing code that is readable, reusable, and visually engaging. Every project is an opportunity to learn something new and improve the way users experience the web.
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
+
+## 🎮 Beyond Code
+
+When I'm away from my editor, you'll probably find me doing one of these:
+
+* 🎮 Gaming
+* 🎬 Photo Editing
+* ⚽ Playing Football
+* 🎬 Watching Movies/Series
+
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
+</p>
+
 
 ## 🌐 Connect
 
