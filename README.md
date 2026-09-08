@@ -94,7 +94,6 @@ const debraj = {
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
-
 ## 🕸️ Contribution Graph
 
 <p align="center">
@@ -110,7 +109,7 @@ const debraj = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
 ## 🕸️ Development Philosophy
@@ -134,7 +133,7 @@ When I'm away from my editor, you'll probably find me doing one of these:
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
 
