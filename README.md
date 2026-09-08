@@ -13,7 +13,6 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=0,14,20,24"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
 </p>
 
@@ -30,7 +29,9 @@ Location  : India
 I enjoy creating modern web experiences with clean interfaces,
 smooth animations, and thoughtful interactions.
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
 
 ## ⚡ Tech Arsenal
 
@@ -55,7 +56,9 @@ smooth animations, and thoughtful interactions.
   <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
 
 ## 🕷️ Current Focus
 
@@ -67,7 +70,9 @@ const debraj = {
 }
 ```
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -85,7 +90,9 @@ const debraj = {
   <img src="https://streak-stats.demolab.com?user=debraj170806-web&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
 
 ## 🕸️ Development Philosophy
 
@@ -93,7 +100,9 @@ const debraj = {
 
 I enjoy writing code that is readable, reusable, and visually engaging. Every project is an opportunity to learn something new and improve the way users experience the web.
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
 
 ## 🎮 Beyond Code
 
@@ -103,14 +112,27 @@ When I'm away from my editor, you'll probably find me doing one of these:
 * 🎬 Photo Editing
 * ⚽ Playing Football
 
----
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
+</p>
 
 ## 🕸️ Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/debraj170806-web/debraj170806-web/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <i>Every commit adds another thread to the web.</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/debraj170806-web/debraj170806-web/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+<p align="center">
+  <sub>🕷️ Auto-updated daily with GitHub Actions.</sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24,20,12"/>
 </p>
 
 ## 🌐 Connect
@@ -131,7 +153,9 @@ When I'm away from my editor, you'll probably find me doing one of these:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12"/>
+</p>
 
 <div align="center">
 
